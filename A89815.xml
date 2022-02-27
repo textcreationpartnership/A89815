@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative presented to the Right Honourable the Lord Major, aldermen, and commons of the City of London, in Common-Councell assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89815</idno>
+            <idno type="STC">Wing N231</idno>
+            <idno type="STC">Thomason E396_26</idno>
+            <idno type="STC">ESTC R201661</idno>
+            <idno type="EEBO-CITATION">99862162</idno>
+            <idno type="PROQUEST">99862162</idno>
+            <idno type="VID">114313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114313)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative presented to the Right Honourable the Lord Major, aldermen, and commons of the City of London, in Common-Councell assembled.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"On the political situation. On the last page the following is printed: 'This narrative was thus directed, To his much respected friend Mr. George Thomason, Stationer at the Rose and Crown in Pauls Church-yard. 24 June,' followed by a printed letter requesting Mr. Thomason to present the pamphlet to the Common Councell"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: on title page: "July 6th"; on final page: "June 24 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114313:1"/>
+            <pb facs="tcp:114313:1" rendition="simple:additions"/>
+            <p>A NARRATIVE PRESENTED TO THE <hi>RIGHT HONO<g ref="char:V">Ʋ</g>RABLE</hi> THE Lord Major, Aldermen, and Commons of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> in Common-Councell Aſſembled.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114313:2"/>
+            <pb n="3" facs="tcp:114313:2"/>
+            <head>A NARRATIVE PRESENTED To the Right Honourable the Lord Major, Aldermen, and Commons of the City of LONDON, in Common-Councell aſſembled.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the Body receives a wound, the Chyrurgion that cures it, if hee doe it not ſoundly and effectually, it after<g ref="char:EOLhyphen"/>wards proves as dangerous, and as expenſive, as if remedies had never been applyed; this Kingdome hath at preſent many wide and gaping wounds, (and ſome of them old ſores which continually breake out) which if not skilfully handled, may breed a long diſtemper in it, and perhaps at laſt loſe much of its ſtrength, and get a hal<g ref="char:EOLhyphen"/>ting that may prove incurable; Look but back, and you ſhall ſee a Warre betwixt the King and Parliament, in which was much blood ſpilt, to the great griefe of all true Engliſh men, who cannot but wiſh this Warre had never been, and that ſome more moderate way had been found out to have recon<g ref="char:EOLhyphen"/>ciled theſe differences, rather then to ſee it effected with the loſſe of their deareſt friends and eſtates, and to enjoy no
+<pb n="4" facs="tcp:114313:3"/>ſettledneſſe to this day; which when it was hoped might have come to ſome iſſue, here appeares another rent 'twixt the Parliament and the Army, that in all likely hood may prove as diſmall as the former, if not looked unto with judgement, and an order put for a ſpeedy remedy. What the Army doth ſet forth is very faire in all or moſt particulars, and I doubt not if things were eſtated according to what they propoſe, the Kingdome may prove famous and flouriſhing: What is moſt ſtumbled at, is liberty of Conſcience, and deman<g ref="char:EOLhyphen"/>ding the Members out of the Houſe. For the firſt, they do it in a moderate way, and charity will conſtrue the beſt; and truly if in point of Ceremony onely, and not in fundamen<g ref="char:EOLhyphen"/>tall grounds they differ, I doe not ſee how men can well bee forced againſt their Conſcience, ſo long as in all kindes elſe they bee regular, without any ſelf-pretences, and without birterneſſe and hatred. For the ſecond, there is none I think that means well, is againſt their deſire, that any who is ſuſpe<g ref="char:EOLhyphen"/>cted (and conſequently impeached) by them, but ſhall bee brought to his tryall: The difference onely is, whether they ſhall bee tryed by the Common Law of <hi>England,</hi> or by the high Court of Parliament now fitting; they are Parliament men, and, therefore (as the caſe now ſtands) the Parliament are their Peeres: Alſo when the King would have had the five Members out of the Houſe, it was then the ſenſe of the whole Kingdome, that it was a breach of Parliament; if it were ſo then, it will be the ſame now; I queſtion not, but by the interpoſition of your mediation, this may be brought to take place, that all thoſe whom they have named may bee tryed by the Parliament; for there is great hopes that the Honourable Houſe will doe Juſtice, even to the cutting off its own Members, (if they be unſound) for the cure of the Common-wealth; and it cannot bee but a pleaſing ſight to the people, to ſee good juſtice done on ſuch againſt whom proofe is made, that they have abuſed the high truſt repoſed in them, and no leſſe joyfull will it bee to ſee others (if no offenders) to come off with credit and reputation; and whereas moſt loving and friendly Letters have been ſent you from the Army, wherein they in a moſt full manner expreſſe
+<pb n="5" facs="tcp:114313:3"/>their love to the City in particular, (which for my part I be<g ref="char:EOLhyphen"/>leeve is unfaigned) and withall deſire you not to bee againſt them in their proceeding according to their Declaration in any way of oppoſition, &amp;c. I cannot but perſwade to the ſame, onely I wiſh that in a prudentiall way you would be ſo ready as to bee able to withſtand all attempts whatſoever may be made, and that ſuch a courſe may bee taken, that the City lye not open to be ſurprized at pleaſure, in caſe the Common Souldier ſhould deſire that ſuch a thing bee exploited. I doe not in the leaſt degree queſtion the integrity of thoſe Gentle<g ref="char:EOLhyphen"/>men that ſubſcribed the Letters ſent to this City, yet they are but ſingle men, and cannot (as they have confeſſed) rule the multitude altogether as they deſire; witneſſe their fetching of the King from <hi>Holdenby</hi> without their knowledge, for which they gave a Reaſon, that it was abſolutely convenient, and that muſt ſuffice; Who knows if they may alſo judge it con<g ref="char:EOLhyphen"/>venient at one time or other to come to the City, and (when once entred) to be tempted to plunder? But it may bee ſaid againſt this, What if they ſhould doe ſo? are 20000 men able to prevaile in ſo populous a City, to goe away foot-free, with<g ref="char:EOLhyphen"/>out their due puniſhment one man out of every third houſe will make a number ſufficient to cut all their throats: do you think they love themſelves ſo little, as to attempt ſuch a thing? To which I anſwer, that 20000 men for their number are not ſo conſiderable, as for their quality; all of them are armed men, and come prepared for the feate, and are a compact body, and can do their ſpoil, and return again; yet a greater thing (then what 20000 men from without can doe) may bee fea<g ref="char:EOLhyphen"/>red, which is the having well-willers, (though not abettors) within the City. And what is worſt of all, is, that many thou<g ref="char:EOLhyphen"/>ſands of indigent and unruly people among us, will take this advantage, and plunder equally, if not beyond what the Soul<g ref="char:EOLhyphen"/>dier can doe in this way; upon this cannot bee expected leſſe then firing of houſes, and bringing all into diſorder and con<g ref="char:EOLhyphen"/>fuſion; but I hope, and verily think the good temper of the Army is ſuch, as none of theſe things will come to paſſe in the leaſt degree, yet 'tis but reaſon you ſhould, notwithſtanding, be in a poſture of defence againſt all events, ſetting forth a
+<pb n="6" facs="tcp:114313:4"/>Declaration of the ſincerity of your intentions, (as the Army hath done) which courſe none within or without the City can with reaſon diſallow of. I will not admit my moſt inti<g ref="char:EOLhyphen"/>mate friend, of whom I have had moſt reall tryals into ſecrets that concern properly my ſelfe, nor will I leave my casket of Jewells open, where none but hee and I doe come, for feare that opportunity ſhould give him occaſion to break that bond which is betwixt us; nor will I leave my money-bags open, in the way where thoſe of my houſhold are onely to paſſe, (although I never found them but faithfull) for feare they ſhould be tempted to doe amiſſe; but if my Jewels bee locked up, and the bags put in the Cheſt, I ſhal adminiſter no occaſion of loſing my friends love, or ſtagger in the fidelity of thoſe of my houſe; Your being in a poſture of defence, is the taking away the temptation, and conſequently of the evil which may follow it; if I get out of theſe compariſons, into ſome of a higher nature, you will find that betwixt Princes that are in the ſtrongeſt league, there is jealouſie if one doe but raiſe for<g ref="char:EOLhyphen"/>ces, (though with no intent of the leaſt prejudice to the other with whom he is at peace) the other will be ſo provided, as to be able in ſome good meaſure to withſtand that Invaſion, (if intended againſt him) which when time hath declared it to have been needleſſe, yet none can ſay but it was providence, and notwithſtanding this, there is no exception taken on ei<g ref="char:EOLhyphen"/>ther ſide at what was acted or done, nor can the Army juſtly except againſt your putting your ſelf in a poſture of defence, for your Declaration wil ſhew the candor of your intentions.</p>
+            <p>But when all this is done the leaſt part of the wound is cu<g ref="char:EOLhyphen"/>red, there ſtands open yet the ſatisfying the debts of the King<g ref="char:EOLhyphen"/>dome due to the Army, and other Souldiers, and to the <hi>Scots,</hi> and other wayes: It were very good if a Compute could bee made what is owing and what is to be found at preſent to inable towards payment; and to conſider what is the yeare<g ref="char:EOLhyphen"/>ly In-come of the Exciſe, Cuſtomes, &amp;c. that one being conſidered againſt the other, it may bee knowne how long that burthen muſt be borne, and in the meane time that all exorbitant fees may bee taken off, and a competency allowed which may ſufficiently countervaile the paines any one takes,
+<pb n="7" facs="tcp:114313:4"/>and no more, the reſt will helpe to diſcharge the publike debts.</p>
+            <p>There is alſo not onely a great burthen of coſt, but of violence on this poore Kingdome, by Committees of all parts of the Kingdome; you cannot but have complaints of every ſide, of the abuſes and wrongs they have done, they have beene ſlow of hearing when they ſhould doe Juſtice, or make Repayment of any money miſſaid, although moſt authen<g ref="char:EOLhyphen"/>ticke proofes have been given, and the delayes have been more tedious then the firſt wrong: but they have been infi<g ref="char:EOLhyphen"/>nitely nimble in catching at the leaſt ſhow of information againſt any man, and have made no dainty of doing Juſtice (in their ſenſe) againſt ſuch men with a great deale of Dex<g ref="char:EOLhyphen"/>terity; but O how hard it is for theſe men to right an In<g ref="char:EOLhyphen"/>nocent when it plainly appeares they have wronged him, and how untoward it is for them to untread the ſteps they have gone in? truely he that hath received remedy againſt this wrong, may be accounted as ſingle as 'tis ſaid the <hi>Phenix</hi> is in the world, or as rare as a blacke <hi>Swan;</hi> It will queſtion<g ref="char:EOLhyphen"/>leſſe be a great ſatisfaction to all <hi>England,</hi> if theſe Com<g ref="char:EOLhyphen"/>mittees may be brought to give a juſt accompt of all they have received, and that honeſt men by them wronged, (under pretence of doing ſervice to the State, when indeed they had onely ſelfe-ends) might have leave to right them<g ref="char:EOLhyphen"/>ſelves in a lawfull way; I doe verily beleeve that ſo much naughtineſſe would bee proved againſt the moſt part of them, as your eares would tingle to heare them; This is another grievance to the Kingdome, which if remo<g ref="char:EOLhyphen"/>ved, would be a meanes of much quiet over all the Land: But this is not all, there is another thing, (which I propoſe to the conſideration of your wiſedomes) to bee done for the future quiet and good of this Kingdome, (for if wee endeavour onely the appeaſing and accommodating of the preſent, without looking to what may inſue, wee ſhall not be cleare of our troubles, feares or charges) which is the bringing in of the King on ſuch conditions, as may bee Honorable for him, and ſafe and profitable for the King<g ref="char:EOLhyphen"/>dome; that wee may be happy in His Government, and He rich in our Love; and that he may bee feared abroad, as
+<pb n="8" facs="tcp:114313:5"/>much as beloved at home. I beleeve many may at firſt ſtartle, and object againſt this, when they conſider things paſt, but let them well weigh all circumſtances, and it will be ſeene that there cannot be a more effectuall remedy for our preſent diſeaſe; and it will alſo avert from us the evils that are threatned, if the King be not brought in; for firſt, but looke to the affections of the people every where, and you will find that their hearts are towards their King, all thoſe that wiſhed ill to his cauſe, are for the moſt part now moſt affectionate to his Perſon; in the City likewiſe you may obſerve the ſame, they generally ſay and finde, that it ap<g ref="char:EOLhyphen"/>peares plainly they were evill inſtruments that led him a<g ref="char:EOLhyphen"/>way, but that now there is no fault to be found in Him, the worſt that is preſt againſt Him is the not ſigning the Pro<g ref="char:EOLhyphen"/>poſitions, which his Magnanimity cannot ſuffer him to do; thoſe which may ſtand with his Honour he refuſeth not, but no private man would be brought to deſert his friend, ſo farre as to condemn him to death becauſe he ſtood firm by him, (though in playing an ill game) much leſſe can the ge<g ref="char:EOLhyphen"/>nerous minde of a Prince bee brought to doe it; you have found by experience that what the peoples minde moſt in<g ref="char:EOLhyphen"/>clines unto, at laſt takes effect; and this is as likely as any thing elſe, and peradventure (if your wiſdomes doe not take the opportunity whilſt it offers) it may be (by meanes which neither I nor you doe know or can imagine) brought to effect, at ſuch a time when there will be no opportuni<g ref="char:EOLhyphen"/>ty, (as now) of making ſuch wholeſome and ſafe conditions for the peoples good, as now there is; Therefore if a good ac<g ref="char:EOLhyphen"/>cord were made with the King, we ſhould ſoone find, (and that ſenſibly) the benefit of it. For,</p>
+            <p>It will be a meanes of allaying all diviſion among us.</p>
+            <p>It will excuſe infinite and vaſt Summes which muſt be diſ<g ref="char:EOLhyphen"/>burſed if diviſion enter once among us, for at laſt the Publike muſt beare all the burthen.</p>
+            <p>It will be a meanes of keeping the <hi>Scots</hi> our Brethren from comming in, which you may perceive they have an in<g ref="char:EOLhyphen"/>tention to doe, by their proceeding ever ſince the King was taken from <hi>Holdenby:</hi> and how chargeable their comming
+<pb n="9" facs="tcp:114313:5"/>will bee you are not Ignorant of: and although their mo<g ref="char:EOLhyphen"/>ney, and conſequently other moneys have been Leavyed in a way that at preſent ſeemes not burthen ſome, yet it is a way that keepes the Exciſe longer on foot, and conſequent<g ref="char:EOLhyphen"/>ly a yoke of too long a continuance on the necks of <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> men, who are altogether unfit to plough with ſuch har<g ref="char:EOLhyphen"/>neſſe, and tis pitty but the beſt way ſhould be thought on for a ſpeedy period unto it, rather then any manner of way to admit of any thing, that may in the leaſt degree threaten a prolonging of it further then already it needs muſt.</p>
+            <p>Now that I have explained my ſelfe as you ſee, I ſhall contract all into a few heads, humbly deſiring that a favour<g ref="char:EOLhyphen"/>able conſtruction may bee made of all what I have and ſhall deliver, and that it may be taken in the ſenſe as I de<g ref="char:EOLhyphen"/>ſire to bee underſtood, that is, to endevour the making up of all breaches, and the quenching of all ſedition and heart<g ref="char:EOLhyphen"/>burning among us, and taking away the cauſes, and that righteouſneſſe and juſtice may take place: and if I have any particular end of my owne, or other reſpect then the publike good, and the peace of <hi>England,</hi> I doe deſire Almighty God not to give me my portion in a better Kingdome then any I can expect here on earth. Having thus cleared the way for your good opinion of me, I proceed to the heads of what I have propoſed.</p>
+            <list>
+               <item>I. That your wiſdomes would reflect and conſult whether it be not needfull for the City to be ready in a poſture of de<g ref="char:EOLhyphen"/>fence againſt all what may offer, ſetting forth your declara<g ref="char:EOLhyphen"/>tion for the ſatisfaction of all the Kingdome.</item>
+               <item>II. Whether it be not convenient and moſt neceſſary for the ground of our quiet, to Petition the Parliament, and to deale with the Army, that the King may bee ſpee<g ref="char:EOLhyphen"/>dily admitted upon Honorable and ſafe Conditions.</item>
+               <item>III. Whether it bee not fit to Petition the Parliament, that a Compute of the Publike debts, and the In-comes al<g ref="char:EOLhyphen"/>ſo of the State may be made, and what there is in being to make ſatisfaction, that the Kingdome may in ſome good meaſure, bee ſatisfied how long the Exciſe may laſt, (which
+<pb n="10" facs="tcp:114313:6"/>in ſome parts of the Kingdome coſts more then halfe of the value, in the very Collection (by which meanes the Parliament gets hatred, and the State little benefit:) alſo that thoſe Mem<g ref="char:EOLhyphen"/>bers that have had Offices of profit in the Publike, whether it be convenient to put them in minde, that they haſten in the Moneys ſo received into <hi>Guild-Hall,</hi> according to the Votes of the ſelf-denying Ordinance lately paſſed; which Moneys will ſerve (in part) to defray theſe neceſſary charges the pre<g ref="char:EOLhyphen"/>ſent occaſions require.</item>
+               <item>IV. Whether it be not very needfull to Petition that the Committees may ceaſe, and that they give in their accounts, and that it may be permitted to thoſe that finde themſelves wronged, to have recourſe againſt them: for tis preſumed that what they have done (in many particulars) in name of the State, hath not been ſo applyed, but to their private uſes; there can come no diſcommodity by it, for if they have been juſt, and acted no farther then Law and a good conſci<g ref="char:EOLhyphen"/>ence, the Law will then cleare them; If they have defrauded the State, there will be money diſcovered for the publick, (in caſe it doe not belong to any wronged party) or if they have wronged and undone men and families by oppreſſion and in<g ref="char:EOLhyphen"/>juſtice, no good man but would give his conſent, that they ſhould ſmart for it, and become an example to poſterity to perform their truſt more juſtly.</item>
+               <item>V. Whither it bee not convenient to Petition the Parlia<g ref="char:EOLhyphen"/>ment, that ſome ſpeedy meſſage, bee delivered to the <hi>Scotte</hi> Commiſſioners, declaring your deſires that our Brethren the <hi>Scots</hi> would not thinke of comming into this Kingdome with an Army, till they ſee further cauſe or more ground for it.</item>
+               <item>VI. Whether your mediation and interpoſition to the Parliament be not behooveful, that the armyes deſires may be granted ſo farre as they tend to the good of the Kingdome, and that they would concede for the tryall of whom the Ar<g ref="char:EOLhyphen"/>my doth accuſe, in a Parliamentary way; and alſo whether the like mediation with the Army bee not to bee uſed, (for the ſweetning of their diſtaſtes) by deviſing ſome honeſt and lawfull meanes of rayfing their pay, and indeavouring to
+<pb n="11" facs="tcp:114313:6"/>take of all kinde off bitterneſſe, that things may be brought to an end, in the leaſt rigid way as may bee; ſo that at laſt an act of oblivion may be ſet forth, that all men may bee ſecured from their feares, which will in a ſhort time bring us againe in our right temper of loving one another as for merly.</item>
+            </list>
+            <p>Theſe Lines are in all humble manner tendred to the grave conſideration of this wiſe Councell, by a true-hearted and well-affected Engliſh-man, (with a ſubmiſſion to your judge<g ref="char:EOLhyphen"/>ments either to add unto, or to take from it, as your judgments ſhall think moſt fit) for the taking off theſe eminent dangers and charges that threaten us, and for the ſetling of a ſure and ſubſtantiall peace, till when 'tis hard to bee reſolved whether the work of <hi>Ireland</hi> can goe forward or backwards; but that effected, we may well hope (through the mercy of God) to hold up our heads againe, and to be able to reduce to due obe<g ref="char:EOLhyphen"/>dience that bloody Nation. Had I been in place to have ſpo<g ref="char:EOLhyphen"/>ken, I would have ſaved the labor of writing, but my abilities are not ſuch, as to make me worthy to ſit there; or had time but permitted for the collection of hands, (for the deſires of many thouſands in this City goe along with it) you ſhould have had it preſented in a Petitionall way; but the occaſion being preſſing, I thought all time too long till I had expreſſed my duty to my Country, in the manner as you ſee: If I doe not name my ſelf now, I deſire it may admit of the moſt fa<g ref="char:EOLhyphen"/>vourable conſtruction, it ſhall be ſufficient to me, if I may be conſcious to my ſelfe of doing any good to my Countrey, without ſeeking applauſe for the ſame; the neareſt way to doe it, is to perſwade (if it be poſſible) that you would bee Moderators betwixt the Parliament and the Army, and with<g ref="char:EOLhyphen"/>all Mediators, 'tis a fit work for ſo noble a City; as you are eminent, ſo is the Work; as you have been potent in the Warre, ſo you may bee powerfull in making peace; take in<g ref="char:EOLhyphen"/>couragement to undertake it, and doubtleſſe God will give a bleſſing to your pious intentions.</p>
+         </div>
+      </body>
+      <back>
+         <div type="text">
+            <pb facs="tcp:114313:7" rendition="simple:additions"/>
+            <p>
+               <hi>This Narrative was thus directed,</hi> To his much reſpected friend Mr. <hi>George Thomaſon</hi> Stationer at the Roſe and Growne in Pauls Church-yard. <hi>June, 24. 1647.</hi>
+            </p>
+            <p>Sir, <hi>Mr. George Thomaſon.</hi> you are in earneſt manner deſired to preſent this incloſed ac<g ref="char:EOLhyphen"/>cording to direction, if poſſible, with your owne bands, I doubt not but the Relation of the contents in the Common-Councell (to whom it is addreſſed within) when read, will make you thinke your pains not ill employed, for there is nothing in it but what each true Engliſh-man wiſheth and deſireth.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
